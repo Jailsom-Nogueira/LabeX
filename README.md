@@ -13,8 +13,8 @@ Um MVP de agência de viagens espaciais.
 - Axios(comunicação com API);
 
 Objetivos do projeto:
-- Aplicar pela primeira vez autenticação de usuário;
-- Aplicar pela primeira vez a ferramenta Router do React para navegação entre páginas;
+- Aplicar autenticação de usuário;
+- Aplicar a ferramenta Router do React para navegação entre páginas;
 - exercitar a biblioteca axios para bater em endpoints;
 - Componentização React. 
 
